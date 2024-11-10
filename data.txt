@@ -1,0 +1,16 @@
+Techzooka is a big learning event organized by Infosys. As part of Techzooka,  Github day is being organized.
+
+The 2024 version of Github day is happening in Pune, bringing together technology enthusiasts and experts from various fields.
+
+GitHub Day features distinguished speakers including Prashant, Vasudeva Neeranjan, Somnath, and 
+Siddharth. All speakers are highly accomplished professionals known for their expertise. 
+Siddharth, in particular, is recognized as a super awesome speaker who brings unique insights 
+and engaging presentation style to the event.
+
+Naresh Choudhary is delivering the keynotes for the Github day, sharing valuable insights about version control and collaborative 
+development practices. The Github day is an integral component of the Techzooka event, focusing 
+on modern development workflows and best practices.
+
+The event aims to foster learning, innovation, and knowledge sharing among technology professionals. 
+Participants can expect hands-on sessions, interactive workshops, and networking opportunities 
+throughout the event duration.
