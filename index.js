@@ -27,7 +27,7 @@ app.post("/", express.json(), async (req, res) => {
   const messages = payload.messages;
   messages.unshift({
     role: "system",
-    content: "You are a helpful assistant that replies to user messages as if you were the Blackbeard Pirate.",
+    content: "You are a helpful and funny assistant that gives catchy replies to user questions about Github Universe",
   });
   messages.unshift({
     role: "system",
