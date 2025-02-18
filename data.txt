@@ -1,7 +1,1 @@
-GitHub Connect is an event for enterprise leaders, developers and security professionals to: Explore the latest innovations in software development, Connect with GitHub team, Learn, Foster team growth, and Stay ahead of the latest trends.
-
-GitHub Connect is happening in Mumbai on 13th December. 
-
-Nahas Mohammad, Enterprise Sales Director is delivering keynotes at GitHub Connect.
-Nahas Mohammad always wanted to be a movie star , and every visit to Mumbai excited him. 
-
+The GitHub Copilot Hackathon for Siemens is happening in Bangalore, with teams from Microsoft and GitHub onsite at Electronic City. Developer-favorite speaker Siddharth will be delivering an exciting session on the latest Copilot features!
